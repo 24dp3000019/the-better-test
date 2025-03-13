@@ -13,3 +13,7 @@ git status shows what all commits uve done and not done and anytguigng to be add
 
 ccccccccccc
 I want to send this shit togit again 2.0
+
+
+
+now i want to edit both text files and see how it works
