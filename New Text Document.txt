@@ -1,0 +1,12 @@
+git commands:
+git init to initialize
+git remote bullshit to connect to bullshit rpeo
+git add . to add everything  . signifies everything
+git commit -m "put commit message"
+git push to push commited messages onto the server
+git pull to pull from gigthub
+server and GitHub used interchangely
+enjoy
+
+
+git status shows what all commits uve done and not done and anytguigng to be added or not this keyuboard is ass bruh
